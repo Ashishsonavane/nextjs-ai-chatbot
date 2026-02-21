@@ -13,6 +13,10 @@
   <a href="#deploy-your-own"><strong>Deploy Your Own</strong></a> ·
   <a href="#running-locally"><strong>Running locally</strong></a>
 </p>
+
+<p align="center">
+  <a href="https://codspeed.io/Ashishsonavane/nextjs-ai-chatbot?utm_source=badge"><img src="https://img.shields.io/endpoint?url=https://codspeed.io/badge.json&style=flat&label=CodSpeed" alt="CodSpeed" /></a>
+</p>
 <br/>
 
 ## Features
